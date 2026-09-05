@@ -1,0 +1,26 @@
+{
+  "name": "self-destruct-x",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Self-Destructing X Auto-Follow Link Platform",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@neondatabase/serverless": "0.9.3",
+    "tailwindcss": "3.4.10",
+    "typescript": "5.5.4",
+    "@types/node": "20.14.10",
+    "@types/react": "18.3.3",
+    "nanoid": "5.0.7",
+    "axios": "1.7.2",
+    "lucide-react": "0.408.0"
+  },
+  "license": "MIT"
+}
